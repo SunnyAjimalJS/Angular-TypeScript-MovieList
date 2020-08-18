@@ -1,4 +1,4 @@
-# Angular / TypeSript Movie List 
+# Angular / TypeScript Movie List 
 
 ## Instructions:
 
