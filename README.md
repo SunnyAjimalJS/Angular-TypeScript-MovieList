@@ -10,7 +10,7 @@
 
 ### Setup and running on live server:
 
-- Run the below two commands:
+- Run these two commands:
 
 > Update and install the required packages first:
 
